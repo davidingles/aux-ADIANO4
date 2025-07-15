@@ -5,8 +5,12 @@ import { Stats, OrbitControls, Environment, useGLTF, Clone, Html, ContactShadows
 import { useControls } from 'leva';
 
 const Models = [
-  { title: 'ADIANO PRUEBA', url: './ADIANO PRUEBA.glb', miEscala: 1.1, miPosicion: 4 },
-  // { title: 'CANARA2', url: './CANARA2.glb', miEscala: 0.5, miPosicion: 0 },
+  { title: '1', url: './1.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '2', url: './2.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '3', url: './3.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '4', url: './4.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '5', url: './5.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '6', url: './6.glb', miEscala: 1.1, miPosicion: 4 },
   // { title: 'CANARA3', url: './CANARA3.glb', miEscala: 0.5, miPosicion: 0 },
   // { title: 'CANARA4', url: './CANARA4.glb', miEscala: 0.5, miPosicion: 0 },
   // { title: 'CANARA5', url: './CANARA5.glb', miEscala: 0.5, miPosicion: 0 },
