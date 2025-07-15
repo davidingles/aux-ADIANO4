@@ -11,11 +11,9 @@ const Models = [
   { title: '4', url: './4.glb', miEscala: 1.1, miPosicion: 4 },
   { title: '5', url: './5.glb', miEscala: 1.1, miPosicion: 4 },
   { title: '6', url: './6.glb', miEscala: 1.1, miPosicion: 4 },
-  // { title: 'CANARA3', url: './CANARA3.glb', miEscala: 0.5, miPosicion: 0 },
-  // { title: 'CANARA4', url: './CANARA4.glb', miEscala: 0.5, miPosicion: 0 },
-  // { title: 'CANARA5', url: './CANARA5.glb', miEscala: 0.5, miPosicion: 0 },
-  // { title: 'CANARA6', url: './CANARA6.glb', miEscala: 0.5, miPosicion: 0 },
-  // { title: 'CANARA7', url: './CANARA7.glb', miEscala: 0.5, miPosicion: 0 },
+  { title: '7', url: './7.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '8', url: './8.glb', miEscala: 1.1, miPosicion: 4 },
+  { title: '9', url: './9.glb', miEscala: 1.1, miPosicion: 4 },
 ];
 
 function Model({ url, miEscala, miPosicion }) {
